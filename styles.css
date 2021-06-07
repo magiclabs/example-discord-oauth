@@ -40,6 +40,11 @@ button.discord {
   padding: 0;
 }
 
+button.discord img {
+  max-height: 50px;
+  height: 100%;
+}
+
 pre {
   text-align: left;
   background: #f0f0f0;
